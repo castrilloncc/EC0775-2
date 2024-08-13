@@ -7,4 +7,4 @@
 
 *Disclaimer*:
 * Some materials in these notebooks are based on Chapters 25, 26, and 27 in "[Econometrics](https://users.ssc.wisc.edu/~bhansen/econometrics/)" by [Bruce Hansen](https://users.ssc.wisc.edu/~bhansen/).
-* Data sets used in these notebooks are from "[Introductory Econometrics: A Modern Approach](https://economics.ut.ac.ir/documents/3030266/14100645/Jeffrey_M._Wooldridge_Introductory_Econometrics_A_Modern_Approach__2012.pdf)" by [Jeffrey M. Wooldridge](http://econ.msu.edu/faculty/wooldridge/).
+* Data sets used in these notebooks are from "[Introductory Econometrics: A Modern Approach](https://drive.google.com/file/d/1Gw_VYjaRxi8Tq-EroKiQLJYuFIW3gs9f/view)" by [Jeffrey M. Wooldridge](https://econ.msu.edu/about/directory/Wooldridge-Jeffrey).
