@@ -1,4 +1,4 @@
-# EC0775-23
+# EC0775-24
  This repository corresponds to "EC0775: Econometría Avanzada II" at [EAFIT University](https://www.eafit.edu.co/) in September 2024. The course is taught by [David Jacho-Chávez](https://www.davidjachochavez.org/), and topics include:
  1. Binary Choice Models
  2. Poisson Models
